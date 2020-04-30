@@ -1,4 +1,5 @@
 ##SLAAC
+	
 	en 
 	conf t
 	ipv6 unicast-routing
